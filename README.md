@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎓 **Student** | Pursuing **B.Tech in Computer Science Engineering (Health Informatics)** at **VIT Bhopal**  
-📊 **Academic Excellence** | Current GPA: **8.64/10** | Graduating in **2027**  
+📊 **Academic Excellence** | Current GPA: **8.92/10** | Graduating in **2027**  
 💻 **Tech Enthusiast** | Passionate about **Full-Stack Development** and **Health Tech**  
 🌱 **Currently Exploring** | **AI/ML fundamentals**, **System Design**, and **Backend Development**  
 🧠 **Problem Solver** | Solved multiple **DSA problems** and contributed **500+ lines of code** during **GirlScript Summer of Code**  
